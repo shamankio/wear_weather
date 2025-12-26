@@ -1,4 +1,3 @@
-*.iml
 # Gradle files
 .gradle/
 build/
